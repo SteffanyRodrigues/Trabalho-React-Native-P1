@@ -4,7 +4,7 @@
 
 ## Pagina Login:
 
-![telaMcDonaldLogin](https://github.com/SteffanyRodrigues/Trabalho-React-Native-P1/assets/142450650/a0408145-9b6b-44f8-ad90-5bb05a0ed3c6)
+![telaMcDonaldLogin](https://github.com/SteffanyRodrigues/Trabalho-React-Native-P1/assets/142450650/a0408145-9b6b-44f8-ad90-5bb05a0ed3c6 width="20")
 
 ## Pagina pedidos:
 
